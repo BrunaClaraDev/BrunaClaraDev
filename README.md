@@ -1,7 +1,7 @@
 ## Oiii eu sou a Bruna Clara Basilio!
  👩🏼‍💻 Desenvolvedora .NET
 
- 💻 Cursando análise e desenvolvimento de sistemas.
+ 💻 Formada em análise e desenvolvimento de sistemas.
 
 <div align="center">
   <a href="https://github.com/BrunaClaraDev">
